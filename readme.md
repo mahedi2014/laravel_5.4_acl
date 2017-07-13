@@ -1,5 +1,5 @@
 ### Installation
-* `git clone https://github.com/caleboki/acl.git`
+* `git clone https://github.com/mahedi2014/laravel_5.4_acl.git
 
 * `cd acl`
 
